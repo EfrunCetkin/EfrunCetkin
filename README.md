@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **efruncetkin@gmail.com**
 
-- ⚡ Fun Fact : Food and Music🎵 are the reasons to live.
+- ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
 
 <br>
 
