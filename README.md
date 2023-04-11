@@ -7,7 +7,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="" /></p>
+<p><img align="right" style="height:550px;" src="https://github.com/EfrunEvdi/EfrunEvdi/blob/main/svg/%E2%80%94Pngtree%E2%80%94illustration%20of%20female%20programmer%20at_6006375.png" alt="" /></p>
 
 <br>
 
