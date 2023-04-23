@@ -7,7 +7,7 @@
 
 <br>
 
-<p><img align="right" style="height:550px;" src="https://github.com/EfrunEvdi/EfrunEvdi/blob/main/svg/%E2%80%94Pngtree%E2%80%94illustration%20of%20female%20programmer%20at_6006375.png" alt="" /></p>
+<p><img align="right" style="height:400px;" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="" /></p>
 
 <br>
 
@@ -72,14 +72,14 @@
 <tr border="0">
   
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EfrunEvdi&amp;theme=onedark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+<img src="https://github-readme-stats.vercel.app/api?username=EfrunEvdi&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <br>
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&amp;theme=onedark&amp;hide_border=false" alt="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&amp;theme=radical&amp;hide_border=false" alt="">
 </td>
 
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunEvdi&theme=onedark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunEvdi&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 
 </tr>
