@@ -17,6 +17,8 @@
 
 - ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
 
+- [![](https://visitcount.itsvg.in/api?id=EfrunEvdi&icon=0&color=12)](https://visitcount.itsvg.in)
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -42,16 +44,20 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" witdh="320" height="320">
-<a href="https://www.w3schools.com/html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://visualstudio.microsoft.com/tr/vs/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#"> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> 
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer"> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman"> 
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"> 
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="Swagger"> 
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> 
+  <img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&amp;logo=angularjs&amp;logoColor=white" alt="Angular.js">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery"> 
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens" alt="JWT"> 
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
 </p>
 
 
@@ -66,14 +72,14 @@
 <tr border="0">
   
 <td width="50%" align="center">
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=EfrunEvdi&theme=cobalt&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=EfrunEvdi&amp;theme=onedark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <br>
 </br>
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="efrun" src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&theme=cobalt&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&amp;theme=onedark&amp;hide_border=false" alt="">
 </td>
 
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunEvdi&theme=cobalt&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunEvdi&theme=onedark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 
 </tr>
