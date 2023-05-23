@@ -93,7 +93,8 @@
 
 ### 📊 Contribution Stats
 
-<img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=EfrunEvdi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EfrunEvdi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+ 
 
 <br>
 <p align="center">
