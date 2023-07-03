@@ -2,9 +2,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Efrun Evdi</h1>
 <h3 align="center">Junior .Net Web Developer🌟.</h3>
 
-<h3 align="center">You can check it out here when my own website is ready soon.</h3>
-<h4 align="center">www.efrunevdi.com</h4>
-
 <br>
 
 <p><img align="right" style="height:400px;" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="" /></p>
@@ -14,6 +11,8 @@
 - 🌱 I’m currently learning .Net Web Development and other programming languages
 
 - 📫 How to reach me **efruncetkin@gmail.com**
+  
+- 🚀 My Personel Website : **www.efrunevdi.com**
 
 - ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
 
