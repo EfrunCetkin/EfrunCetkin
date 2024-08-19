@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Efrun Evdi</h1>
-<h3 align="center">Junior .Net Web Developer🌟.</h3>
+<h3 align="center">.Net Web Developer🌟.</h3>
 
 <br>
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
 
-- [![](https://visitcount.itsvg.in/api?id=EfrunEvdi&icon=0&color=12)](https://visitcount.itsvg.in)
+- [![](https://visitcount.itsvg.in/api?id=EfrunEvdi&icon=0&color=13)](https://visitcount.itsvg.in)
  
 <br>
 
@@ -31,7 +31,6 @@
  <a href="https://twitter.com/EfrunEvdi" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="efrun" height="30" width="40" /></a>
-  
 </p>
 
 <br>
@@ -84,6 +83,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
+### FUPICO/GTS-Backend Activity
+<img width="100%" src="https://repobeats.axiom.co/api/embed/cb0b73cdad6f90a1e8e2fdc582efab87efd6d17b.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+
+[![Forkers repo roster for @EfrunEvdi/GTS-Backend](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=FUPICO&repo=GTS-Backend)](https://github.com/FUPICO/GTS-Backend/network/members)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<br>
 ### 📊 Contribution Stats
 
 <img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EfrunEvdi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
@@ -93,3 +101,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <br>
+
+
+
