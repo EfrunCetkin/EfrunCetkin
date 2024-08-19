@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Efrun Evdi</h1>
-<h3 align="center">.Net Web Developer🌟.</h3>
+<h3 align="center">.Net Web Developer🌟</h3>
 
 <br>
 
@@ -7,16 +7,13 @@
 
 <br>
 
-- 🌱 I’m currently learning .Net Web Development and other programming languages
+- 🌱 I’m currently learning .Net Web Development and other programming languages.
+- 📫 How to reach me: **efruncetkin@gmail.com**
+- 🚀 My Personal Website: **www.efrunevdi.com**
+- ⚡ Fun Fact: Code and Music🎵 are the reasons to live.
 
-- 📫 How to reach me **efruncetkin@gmail.com**
-  
-- 🚀 My Personel Website : **www.efrunevdi.com**
+- [![](https://visitcount.itsvg.in/api?id=EfrunEvdi&icon=0&color=5)](https://visitcount.itsvg.in)
 
-- ⚡ Fun Fact : Code and Music🎵 are the reasons to live.
-
-- [![](https://visitcount.itsvg.in/api?id=EfrunEvdi&icon=0&color=13)](https://visitcount.itsvg.in)
- 
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,16 +25,15 @@
   <a href="https://www.hackerrank.com/efruncetkin" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="efrun" height="30" width="40" /></a>
- <a href="https://twitter.com/EfrunEvdi" target="blank"><img align="center"
+  <a href="https://twitter.com/EfrunEvdi" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="efrun" height="30" width="40" /></a>
 </p>
 
 <br>
 
-<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" witdh="320" height="320">
+<p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#"> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> 
@@ -49,58 +45,60 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&amp;logo=JSON%20web%20tokens" alt="JWT"> 
   <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"> 
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EfrunEvdi&&row=1&theme=radical" alt="EfrunEvdi" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 <br>
-  
-<table border="0" align="center">
-  <tr border="0">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
+
+<table border="5" align="center">
+  <tr>
     <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=EfrunEvdi&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
- <hr>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&amp;theme=radical&amp;hide_border=false" alt="">
-   </td>
-  <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunEvdi&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
-  </td>
- </tr>
+      <img src="https://github-readme-stats.vercel.app/api?username=EfrunEvdi&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+    </td>
+    <td width="50%" align="center" rowspan="2">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunEvdi&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&amp;theme=radical&amp;hide_border=false" alt="">
+    </td>
+  </tr>
+  <tr align="center">
+    <td colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EfrunEvdi&theme=radical&hide_border=false">
+    </td>
+  </tr>
 </table>
 
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
 ### FUPICO/GTS-Backend Activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/cb0b73cdad6f90a1e8e2fdc582efab87efd6d17b.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
 [![Forkers repo roster for @EfrunEvdi/GTS-Backend](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=FUPICO&repo=GTS-Backend)](https://github.com/FUPICO/GTS-Backend/network/members)
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 <br>
-### 📊 Contribution Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br>
 
+### 📊 Contribution Stats
 <img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EfrunEvdi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 <br>
-
-
-
