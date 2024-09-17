@@ -88,7 +88,7 @@
 <br>
 
 ### FUPICO/GTS-Backend Activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/66c7b19f5efe4870490498fc512d56dbcd45c640.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
+<img width="100%" src="https://repobeats.axiom.co/api/embed/6520dd488540d93f0aaa71499dd966613f34af67.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
 [![Forkers repo roster for @EfrunEvdi/GTS-Backend](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=FUPICO&repo=GTS-Backend)](https://github.com/FUPICO/GTS-Backend/network/members)
 
