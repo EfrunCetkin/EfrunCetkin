@@ -12,7 +12,7 @@
 - 🚀 My Personal Website: **www.efruncetkin.com**
 - ⚡ Fun Fact: Code and Music🎵 are the reasons to live.
 
-- [![](https://visitcount.itsvg.in/api?id=EfrunEvdi&icon=0&color=5)](https://visitcount.itsvg.in)
+- [![](https://visitcount.itsvg.in/api?id=EfrunCetkin&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <br>
 
@@ -25,7 +25,7 @@
   <a href="https://www.hackerrank.com/efruncetkin" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="efrun" height="30" width="40" /></a>
-  <a href="https://twitter.com/EfrunEvdi" target="blank"><img align="center"
+  <a href="https://twitter.com/EfrunCetkin" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="efrun" height="30" width="40" /></a>
 </p>
@@ -55,7 +55,7 @@
 <br>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EfrunEvdi&&row=1&theme=radical" alt="EfrunEvdi" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EfrunCetkin&&row=1&theme=radical" alt="EfrunCetkin" /></a>
 </p>
 
 <br>
@@ -65,20 +65,20 @@
 <table border="5" align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=EfrunEvdi&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+      <img src="https://github-readme-stats.vercel.app/api?username=EfrunCetkin&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
     </td>
     <td width="50%" align="center" rowspan="2">
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunEvdi&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunCetkin&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/>
     </td>
   </tr>
   <tr align="center">
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunEvdi&amp;theme=radical&amp;hide_border=false" alt="">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=EfrunCetkin&amp;theme=radical&amp;hide_border=false" alt="">
     </td>
   </tr>
   <tr align="center">
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EfrunEvdi&theme=radical&hide_border=false">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EfrunCetkin&theme=radical&hide_border=false">
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@
 ### FUPICO/GTS-Backend Activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/159ee6c750029fbcc37778eb54a4b1e6fada0644.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-[![Forkers repo roster for @EfrunEvdi/GTS-Backend](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=FUPICO&repo=GTS-Backend)](https://github.com/FUPICO/GTS-Backend/network/members)
+[![Forkers repo roster for @EfrunCetkin/GTS-Backend](http://bytecrank.com/nastyox/reporoster/php/forkersSVG.php?theme=dark&user=FUPICO&repo=GTS-Backend)](https://github.com/FUPICO/GTS-Backend/network/members)
 [![Stargazers repo roster for @Fupico/GTS-Backend](https://reporoster.com/stars/dark/Fupico/GTS-Backend)](https://github.com/Fupico/GTS-Backend/stargazers)
 
 <br>
@@ -98,7 +98,7 @@
 <br>
 
 ### 📊 Contribution Stats
-<img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EfrunEvdi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Efrun's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EfrunCetkin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
