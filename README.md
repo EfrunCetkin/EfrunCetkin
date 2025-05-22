@@ -12,7 +12,7 @@
 - 🚀 My Personal Website: **www.efruncetkin.com**
 - ⚡ Fun Fact: Code and Music🎵 are the reasons to live.
 
-- [![](https://visitcount.itsvg.in/api?id=EfrunCetkin&icon=0&color=5)](https://visitcount.itsvg.in)
+- ![](https://komarev.com/ghpvc/?username=EfrunCetkin&label=Profile%20views&color=0e75b6&style=flat)
 
 <br>
 
