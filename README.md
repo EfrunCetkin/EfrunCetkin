@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning .Net Web Development and other programming languages.
 - 📫 How to reach me: **efruncetkin@gmail.com**
-- 🚀 My Personal Website: **www.efrunevdi.com**
+- 🚀 My Personal Website: **www.efruncetkin.com**
 - ⚡ Fun Fact: Code and Music🎵 are the reasons to live.
 
 - [![](https://visitcount.itsvg.in/api?id=EfrunEvdi&icon=0&color=5)](https://visitcount.itsvg.in)
